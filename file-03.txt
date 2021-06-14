@@ -1,0 +1,2 @@
+this is file created by friend after i cloned a code
+my file contain only file-01 in main branch
